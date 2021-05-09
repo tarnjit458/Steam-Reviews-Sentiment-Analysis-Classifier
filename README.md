@@ -2,8 +2,11 @@
 CMPE 255 Section 2
 
 Group 2:
+
 Eric Lin
+
 Tarnjit Ghag
+
 Sunny Kohli
 
 ### Grabbing the Dataset
